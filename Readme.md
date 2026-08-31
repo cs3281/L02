@@ -352,9 +352,6 @@ More information on CMake is provided below.
 
 # Pointers in C  - a review
 
-et to do??
-}
-
 int *getAge() {
   // allocate space on the heap for an int
   int *p = (int*) malloc(sizeof(int));

@@ -589,11 +589,6 @@ return;
 }
 ```
 
-## Complex declarations
-
-Reading complex C declarations can be tricky, but the [right-left](http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html) rule can help you decipher them.
-
-
 # About CMAKE
 
 CMAKE is an easy to use alternative for makefiles and you should know about it. The advantage of using CMake is that you can manage the build process of your software in a compiler-independent way. For instance, from the same CMake file, you could generate a Linux makefile and a Visual Studio project file.
